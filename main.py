@@ -5,5 +5,3 @@ print("Your band name could be " + street + " " + pet)
 
 day1="Statred learning basic stuffs"
 print(day1)
-day2="Starting some basic on git"
-print(day2)
